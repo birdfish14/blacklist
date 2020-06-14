@@ -1,0 +1,9 @@
+# Ad filter list by IvanHansson
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+tinder.com
+match.com
+motesplatsen.se
+darkside.se
+darkside.com
