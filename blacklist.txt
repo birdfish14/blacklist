@@ -2,34 +2,3 @@
 # License: GPLv3
 # Contact: me
 
-tinder.com
-match.com
-motesplatsen.se
-darkside.se
-darkside.com
-happypancake.com
-happypancake.se
-dejtingexperter.se
-elitsinglar.se
-singles50.se
-pirrigt.se
-pirrigt.com
-ourtime.com
-hittakärleken.se
-edarling.se
-victoria-milan.com
-badoo.com
-badoo.se
-bumble.com
-goodones.com
-goodones.se
-onlinematch.net
-etour.com
-avslappnat-dejtande.com
-avslappnat-dejtande.se
-thatsup.se
-mydates.com
-academicsingles.se
-academicsingles.com
-breakit.se
-myshornan.se
